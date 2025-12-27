@@ -145,14 +145,14 @@ event HudSpyDisguiseHide
 	Animate PlayerStatusSpyOutlineImage		Position	"c-50 c105"	Linear 0.0 0.2
 	Animate PlayerStatusSpyOutlineImage		Size		"55 55"		Linear 0.0 0.2
 	
-	Animate PlayerStatusSpyOutlineImage		Alpha		"0"		Linear 0.2 0.1
+	Animate PlayerStatusSpyOutlineImage		Alpha		"0"			Linear 0.2 0.1
 }
 
 
 event HudSpyDisguiseFadeIn
 {
 	RunEvent HudSpyDisguiseChanged	0
-	Animate PlayerStatusSpyImage			Alpha		"255"			Linear 0.9 0.1	
+	Animate PlayerStatusSpyImage			Alpha		"255"		Linear 0.9 0.1	
 }
 
 event HudSpyDisguiseFadeOut
@@ -194,14 +194,14 @@ event TeamStatus_PlayerAlive
 
 event HudTournamentSetupPanelOpen
 {
-	Animate HudTournamentSetup	Position	"c-95 -70"	Linear 0.0 0.001
-	Animate HudTournamentSetup	Position	"c-95 70"	Spline 0.001 0.2
+	Animate HudTournamentSetup			Position	"c-95 -70"			Linear 0.0 0.001
+	Animate HudTournamentSetup			Position	"c-95 70"			Spline 0.001 0.2
 }
 
 event HudTournamentSetupPanelClose
 {
-	Animate HudTournamentSetup	Position	"c-95 70"	Linear 0.0 0.001
-	Animate HudTournamentSetup	Position	"c-95 -70"	Spline 0.001 0.2
+	Animate HudTournamentSetup			Position	"c-95 70"			Linear 0.0 0.001
+	Animate HudTournamentSetup			Position	"c-95 -70"			Spline 0.001 0.2
 }
 //==================================================================================
 
