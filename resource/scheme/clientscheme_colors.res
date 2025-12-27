@@ -26,7 +26,7 @@ Scheme
 		// GAMEPLAY
 		//---------------------------------------------
 		"Ammo In Clip"				"235 226 202 255"
-		"Ammo In Reserve"			"0 0 255 255"
+		"Ammo In Reserve"			"235 226 202 255"
 		"Ammo Low"					"255 0 255 255"
 		"Ammo Low Flash"			"255 120 255 255"
 		"Health Normal"				"235 226 202 255"
