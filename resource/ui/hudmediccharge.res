@@ -85,7 +85,7 @@
 		"textAlignment"	"North"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Regular14Shadow"
+		"font"			"Default"
 		"fgcolor"		"White"
 	}
 
