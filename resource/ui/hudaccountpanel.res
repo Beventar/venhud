@@ -75,7 +75,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica22"
+		"font"					"Cerbetica20"
 		"font_minmode"			"Cerbetica16"
 	}
 
@@ -99,7 +99,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica22"
+		"font"					"Cerbetica20"
 		"font_minmode"			"Cerbetica16"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"AccountValue"
