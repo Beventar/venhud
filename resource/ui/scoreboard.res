@@ -478,50 +478,6 @@
 			"visible"		"1"
 		}
 	}
-
-	"classmodelpanel"
-	{
-		"ControlName"		"CTFPlayerModelPanel"
-		"fieldName"			"classmodelpanel"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"10"
-		"wide"				"155"
-		"tall"				"260"
-		"autoResize"		"0"
-		"pinCorner"			"0"
-		"visible"			"0"
-		"enabled"			"1"
-		"fov"				"25"
-		"allow_rot"			"1"
-		"render_texture"	"0"
-		"disable_speak_event"	"1"
-		
-		"pin_to_sibling"		"LocalPlayerStatsPanel"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
-
-		if_mvm
-		{
-			"visible"			"0"
-		}
-		
-		"model"
-		{
-			"force_pos"			"1"
-			"angles_x"			"-13"
-			"angles_y"			"160"
-			"angles_z"			"0"
-			"origin_x"			"158"
-			"origin_y"			"-4"
-			"origin_z"			"-93"
-			"frame_origin_x"	"0"
-			"frame_origin_y"	"0"
-			"frame_origin_z"	"0"
-			"spotlight"			"1"
-			"modelname"			""
-		}
-	}
 	
 	"PlayerNameLabel"
 	{

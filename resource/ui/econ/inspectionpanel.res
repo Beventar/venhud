@@ -51,8 +51,8 @@
 	"ModelInspectionPanel"
 	{
 		"fieldName"		"ModelInspectionPanel"
-		"xpos"			"cs-0.8"
-		"ypos"			"20"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"o1.5"
 		"tall"			"p0.8"
@@ -65,7 +65,7 @@
 		"max_pitch"				"30"
 		"use_pedestal"			"1"
 		"use_particle"			"1"
-		"fov"					"65"
+		"fov"					"75"
 
 		"consume_mode"
 		{
@@ -127,7 +127,7 @@
 	{
 		"ControlName"		"CNavigationPanel"
 		"fieldName"			"TeamNavPanel"
-		"xpos"				"cs1.4"
+		"xpos"				"cs-0.5"
 		"ypos"				"c-135"
 		"zpos"				"100"
 		"wide"				"60"
@@ -648,8 +648,8 @@
 		"zpos"			"99"
 		"wide"			"30"
 		"tall"			"30"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"replay\thumbnails\raysfox\hmm"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
