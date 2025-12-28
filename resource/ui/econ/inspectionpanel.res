@@ -52,7 +52,7 @@
 	{
 		"fieldName"		"ModelInspectionPanel"
 		"xpos"			"cs-0.5"
-		"ypos"			"0"
+		"ypos"			"20"
 		"zpos"			"5"
 		"wide"			"o1.5"
 		"tall"			"p0.8"
@@ -227,7 +227,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PaintkitPreviewContainer"
-		"xpos"			"cs0.3"
+		"xpos"			"cs0.6"
 		"ypos"			"p.2"
 		"wide"			"250"
 		"tall"			"190"
