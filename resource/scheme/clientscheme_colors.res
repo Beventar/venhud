@@ -101,7 +101,7 @@ Scheme
 
 		"Black"									"29 29 29 255"
 		"Transparent"							"0 0 0 0"
-		"TransparentBlack"						"0 0 0 230"
+		"TransparentBlack"						"0 0 0 200"
 		"TransparentLightBlack"					"0 0 0 90"
 		"FooterBGBlack"							"52 48 55 255"
 

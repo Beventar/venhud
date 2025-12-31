@@ -96,7 +96,7 @@
 		"textAlignment"	"center"
 		"font"			"Cerbetica56"
 		"font_minmode"	"Cerbetica32"
-		"fgcolor"		"0 0 0 200"
+		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"PlayerHealthValue"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
