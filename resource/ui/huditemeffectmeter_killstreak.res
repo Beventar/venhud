@@ -4,10 +4,10 @@
 {
 	"HudItemEffectMeter"
 	{
-		"xpos"				"-195"
-		"ypos"				"-25"
-		"wide"			"f0"
-		"tall"			"f0"
+		"xpos"					"-235"
+		"ypos"					"-25"
+		"wide"					"f0"
+		"tall"					"f0"
 	}
 	
 	"ItemEffectMeterLabel"
@@ -16,12 +16,19 @@
 		"tall"					"0"
 		"visible"				"0"
 		"enabled"				"0"
-		"labelText"			"#TF_KillStreak"
+		"labelText"				"#TF_KillStreak"
 	}
+
+	"ItemEffectMeterCount"
+	{
+		"textAlignment"			"east"
+	}
+	
 	"ItemEffectMeterCountShadow"
 	{
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"0"
+		"textAlignment"			"east"
 	}
 }
