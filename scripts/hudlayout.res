@@ -975,12 +975,11 @@
 		"fieldName" 		"HudMenuSpyDisguise"
 		"visible" 			"1"
 		"enabled" 			"1"
-		"xpos"				"c110"
-		"ypos"				"c-72"
-		"xpos_minmode"		"c130"
+		"xpos"				"c-105"
+		"ypos"				"c-35"
 		"zpos"				"1"
-		"wide"				"100"
-		"tall"				"190"
+		"wide"				"200"
+		"tall"				"150"
 		"PaintBackgroundType"	"0"
 	}
 
