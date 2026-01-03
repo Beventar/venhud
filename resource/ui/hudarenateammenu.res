@@ -15,21 +15,6 @@
 		"tabPosition"	"0"
 	}
 
-	"SidePanelBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"SidePanelBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"255"
-		"tall"			"f0"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-		"fillcolor"		"0 0 0 100"
-	}
-
 	"SysMenu"
 	{
 		"ControlName"	"Menu"
@@ -65,10 +50,10 @@
 		"ControlName"	"Label"
 		"fieldName"		"mapname"
 		"xpos"			"0"
-		"ypos"			"c-75"
+		"ypos"			"c-60"
 		"zpos"			"1"
-		"wide"			"255"
-		"tall"			"25"
+		"wide"			"f0"
+		"tall"			"30"
 		"textAlignment"	"center"
 		"font"			"Cerbetica32"
 		"visible"		"1"
@@ -77,15 +62,49 @@
 		"fgcolor_override"	"TanLight"
 	}
 
+	"BlueBorder"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BlueBorder"
+		"xpos"				"c-200"
+		"ypos"				"c30"
+		"zpos"				"2"
+		"wide"				"200"
+		"tall"				"3"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"HUDBlueTeamDark"
+		"proportionaltoparent"	"1"
+	}
+
+	"RedBorder"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"RedBorder"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"2"
+		"wide"				"200"
+		"tall"				"3"
+		"visible"			"1"
+		"enabled"			"1"
+		"bgcolor_override"	"HUDRedTeamDark"
+		"proportionaltoparent"	"1"
+		
+		"pin_to_sibling"		"BlueBorder"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+	}
+
 	"teambutton2"
 	{
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton2"
 		"xpos"			"0"
-		"ypos"			"15"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"255"
-		"tall"			"30"
+		"wide"			"200"
+		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -99,8 +118,8 @@
 		"font"			"Cerbetica20"
 		"allcaps"		"1"
 		
-		"pin_to_sibling"			"mapname"
-		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling"			"BlueBorder"
+		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 
 		"defaultBgColor_override" 	"TransparentBlack"
@@ -122,15 +141,15 @@
 		"ControlName"	"CTFTeamButton"
 		"fieldName"		"teambutton3"
 		"xpos"			"0"
-		"ypos"			"5"
+		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"255"
-		"tall"			"30"
+		"wide"			"200"
+		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"	"2"
+		"tabPosition"	"3"
 		"labelText"		"#TF_Spectate"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -138,8 +157,8 @@
 		"command"		"jointeam spectatearena"
 		"font"			"Cerbetica20"
 		
-		"pin_to_sibling"			"teambutton2"
-		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling"			"RedBorder"
+		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 
 		"defaultBgColor_override" 	"TransparentBlack"
@@ -168,7 +187,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fillcolor"		"255 255 255 200"
+		"fillcolor"		"255 255 255 7"
 	}
 
 	"TeamMenuAuto"
