@@ -110,8 +110,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"CarriedContainer"
-		"xpos"				"0"
-		"ypos"				"r115"
+		"xpos"				"c-12"
+		"ypos"				"r135"
 		"zpos"				"1"
 		"wide"				"100"
 		"tall"				"100"
@@ -166,12 +166,13 @@
 			"fgcolor"			"TanLight"
 			"proportionalToParent"	"1"
 		}
+		
 		"FlagValueShadow"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"FlagValueShadow"
-			"xpos"				"-2"
-			"ypos"				"-2"
+			"xpos"				"-1"
+			"ypos"				"-1"
 			"zpos"				"3"
 			"wide"				"25"
 			"tall"				"15"
