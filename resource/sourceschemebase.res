@@ -500,8 +500,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Tahoma" [!$OSX]
-				"name"			"Tahoma" [$X360]
+				"name"			"Lucida Console" [!$OSX]
+				"name"			"Lucida Console" [$X360]
 				"name"			"Verdana" [$OSX]
 				"tall"			"11" [$OSX]
 				"tall"			"14" [$LINUX]
