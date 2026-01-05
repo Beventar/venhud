@@ -21,6 +21,8 @@
 
 	"ItemEffectMeterCount"
 	{
+		"xpos"					"c-46"
+		"ypos"					"c150"
 		"textAlignment"			"east"
 	}
 	
