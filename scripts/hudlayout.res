@@ -228,11 +228,11 @@
 		"fieldName" 			"DisguiseStatus"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"-431"
-		"ypos"					"8"
-		"zpos"					"-1"
-		"wide"					"f0"
-		"tall"					"480"
+		"xpos"					"53"
+		"ypos"					"r71"
+		"zpos"					"5"
+		"wide"					"250"
+		"tall"					"300"
 	}
 
 	"CMainTargetID"
