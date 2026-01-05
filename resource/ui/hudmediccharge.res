@@ -72,7 +72,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelTiny"
 		"xpos"			"c-43"
-		"ypos"			"c10"
+		"ypos"			"c12"
 		"zpos"			"2"
 		"wide"			"90"
 		"tall"			"50"
@@ -86,7 +86,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Default"
-		"fgcolor"		"White"
+		"fgcolor"		"TanLight"
 	}
 
 	"IndividualChargesLabel"
