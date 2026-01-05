@@ -23,10 +23,24 @@
 
 		"model"
 		{
-			"angles_x"		"10"
-			"angles_y"		"130"
-			"angles_z"		"0"
+			"angles_x"	"10"
+			"angles_y"	"130"
+			"angles_z"	"0"
 		}
+	}
+
+	"BG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BG"
+		"xpos"			"10"
+		"ypos"			"30"
+		"zpos"			"-1"
+		"wide"			"150"
+		"tall"			"32"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"TransparentBlack"
 	}
 
 	"DisguiseStatusBG"
@@ -35,23 +49,23 @@
 		"fieldName"		"DisguiseStatusBG"
 		"xpos"			"10"
 		"xpos_disabled"	"10"
-		"ypos"			"30"
+		"ypos"			"60"
 		"ypos_disabled"	"48"
 		"zpos"			"-1"
 		"wide"			"150"
 		"wide_disabled"	"140"
-		"tall"	 		"32"
+		"tall"	 		"2"
 		"tall_disabled"	"22"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
-		"scaleImage"	"1"
+		"scaleImage"		"1"
 		"teambg_1"		"../hud/color_panel_brown"
 		"teambg_2"		"../hud/color_panel_red"
 		"teambg_2_disabled"	"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
+		"teambg_3"		"../hud/color_panel_blu"
 		"teambg_3_disabled"	"../hud/color_panel_blu"
 		
 		"src_corner_height"		"50"				// pixels inside the image
@@ -109,7 +123,7 @@
 	
 	"SpectatorGUIHealth"
 	{
-		"ControlName"	"EditablePanel"
+		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"9"
 		"xpos_disabled"	"10"
@@ -118,7 +132,7 @@
 		"wide"			"50"
 		"tall"			"32"
 		"visible"		"1"
-		"enabled"		"1"
+		"enabled"		"1"	
 		"HealthBonusPosAdj"			"10"
 		"HealthDeathWarning"		"0.49"
 		"TFFont"					"HudFontSmall"
