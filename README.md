@@ -1,6 +1,6 @@
 # Overview
 
-A rayshud edit with changes based on my own preferences and gameplay.
+A rayshud edit with changes based on my own preferences and gameplay needs.
 
 # Credits
 
