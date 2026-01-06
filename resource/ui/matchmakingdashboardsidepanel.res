@@ -102,7 +102,7 @@
 		"armedBgColor_override"		"Transparent"
 		"defaultBgColor_override"	"Transparent"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"169 123 53 255"
+		"armedFgColor_override"		"53 152 169 255"
 
 		if_left
 		{
@@ -131,7 +131,7 @@
 		"armedBgColor_override"		"Transparent"
 		"defaultBgColor_override"	"Transparent"
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"169 123 53 255"
+		"armedFgColor_override"		"53 152 169 255"
 
 		if_left
 		{
