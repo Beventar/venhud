@@ -1,4 +1,4 @@
-"Resource/UI/SurveyPanel_Base.res"
+"resource/ui/surveypanel_base.res"
 {
 	"Survey"
 	{
@@ -47,7 +47,7 @@
 				"tall"			"25"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontMediumSmall"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"labelText"		"#TF_SurveyQuestion_Submitting"
@@ -93,7 +93,7 @@
 				"tall"			"25"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontMediumSmall"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"Orange"
 				"textAlignment"	"center"
 				"labelText"		"#TF_SurveyQuestion_ThankYouTitle"
@@ -111,7 +111,7 @@
 				"tall"			"50"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontMediumSmall"
+				"font"			"HudFontSmallBold"
 				"fgcolor_override"	"TanLight"
 				"textAlignment"	"center"
 				"wrap"			"0"
