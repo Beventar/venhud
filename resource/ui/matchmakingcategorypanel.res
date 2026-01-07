@@ -6,10 +6,10 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"50"
+		"tall"					"38"
 		"proportionaltoparent"	"1"
 
-		"collapsed_height"	"57"
+		"collapsed_height"	"45"
 		"resize_time"	"0.2"
 	}
 
@@ -62,17 +62,17 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"EntryToggleButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"o4"
-			"tall"			"f0"
+			"xpos"			"r95"
+			"ypos"			"22"
+			"zpos"			"2"
+			"wide"			"95"
+			"tall"			"15"
 			"proportionaltoparent"	"1"
 
 			"actionsignallevel"	"2"
 			"command"		"toggle_collapse"
 			"labeltext"		"#TF_Casual_ViewMaps"
-			"textAlignment"	"south-west"
+			"textAlignment"	"west"
 			"font"	"MMenuPlayListDesc"
 			"textinsetx"	"50"
 			
@@ -98,17 +98,17 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"2"
-				"ypos"			"cs1.85"
+				"xpos"			"3"
+				"ypos"			"cs-0.5"
 				"zpos"			"1"
-				"wide"			"10"
-				"tall"			"10"
+				"wide"			"o1"
+				"tall"			"p.9"
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
 
 				"proportionaltoparent"	"1"
-			}
+			}	
 		}
 
 		"Shade"
@@ -207,8 +207,8 @@
 			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 
 			"wrap"			"1"
 			"fgcolor_override" "TanLight"
@@ -230,8 +230,8 @@
 			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 
 			"wrap"			"1"
 			"fgcolor_override" "Black"
