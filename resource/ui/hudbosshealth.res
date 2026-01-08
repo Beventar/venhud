@@ -9,8 +9,8 @@
 		"zpos"			"0"
 		"wide"			"200"
 		"tall"			"22"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 	}
