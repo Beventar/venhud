@@ -24,6 +24,7 @@
 		"draw_corner_width"		"0"
 		"draw_corner_height" 	"0"
 	}
+
 	"AlertLabel"
 	{	
 		"ControlName"		"Label"
@@ -44,6 +45,7 @@
 		"fgcolor_override"	"TanLight"
 		"textinsetx"		"5"
 	}
+	
 	"AlertImage"
 	{
 		"ControlName"	"CTFImagePanel"
