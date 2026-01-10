@@ -146,7 +146,7 @@
 
 		"consume_mode"
 		{
-			"xpos"			"cs-0.5"
+			"xpos"			"cs-0.47"
 			"ypos"			"r105"
 		}
 		
@@ -403,6 +403,7 @@
 
 			"consume_mode"
 			{
+				"xpos"			"77"
 				"ypos"			"25"
 			}
 
