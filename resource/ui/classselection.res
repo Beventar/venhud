@@ -68,7 +68,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"	"scout"
-		"xpos"	"c81"
+		"xpos"	"c-145"
 		"ypos"	"164"
 		"zpos"	"6"
 		"wide"	"100"
@@ -976,7 +976,7 @@
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
-		"xpos"			"c-180"
+		"xpos"			"c-104"
 		"ypos"			"45"
 		"zpos"			"6"
 		"wide"			"380"
