@@ -16,8 +16,6 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"paintborder"			"1"
-		"border"				"CyanBorderThick"
 		"bgcolor_override"		"DarkGrey"
 	}
 	
