@@ -152,9 +152,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"hypnotize_icons"
-				"tall"										"64"
-				"antialias"									"1"
+				"name"			"hypnotize_icons"
+				"tall"			"64"
+				"antialias"		"1"
 			}
 		}
 		
@@ -2791,8 +2791,8 @@ Scheme
 		"17"		"resource/linux_fonts/firasans-regular.ttf"
 		"18"
 		{
-			"font" 		"resource/fonts/hypnotize_icons.ttf"
-			"name" 		"hypnotize_icons"
+			"font" 	"resource/fonts/hypnotize_icons.ttf"
+			"name" 	"hypnotize_icons"
 		}
 	}
 }
